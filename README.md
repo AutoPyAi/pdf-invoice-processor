@@ -25,6 +25,15 @@ Use optical character recognition to extract text from scanned or image-based PD
 - Output as structured `.json` (with line items, metadata, coordinates)
 - Adjustable DPI quality for better accuracy
 
+
+## 👥 Perfect for
+
+- **Freelancers** managing recurring client invoices  
+- **Small accounting teams** processing vendor bills without expensive software  
+- **Developers** looking for a modular, hackable PDF/OCR toolkit  
+- **Educators or researchers** extracting data from scanned financial documents  
+- **Privacy-conscious users** who avoid cloud-based PDF services  
+
 ---
 
 ## 🖥️ How to Use
